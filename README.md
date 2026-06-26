@@ -1,6 +1,9 @@
 # Ulduz Vafadarshamasbi
 
-### Research Fellow | Bioinformatician | Biostatistics | Computational Genomics | Epigenomics
+
+### Research Fellow
+
+*Bioinformatics • Biostatistics • Computational Genomics • Epigenomics*
 
 Welcome! I’m Ulduz, a Research Fellow with a passion for exploring biology through computation, statistics, and data. Curiosity drives my research, and I enjoy uncovering patterns hidden within complex biological datasets while developing computational solutions that transform genomic data into meaningful biological insights.
 My research combines bioinformatics, computational biology, biostatistics, statistical genomics, and epigenomics, with experience spanning genome assembly, Hi-C scaffolding, genome and functional annotation, transcriptomics, comparative genomics, structural variant discovery, pan-epigenomics, DNA methylation analysis, and multi-omics integration. I develop scalable and reproducible workflows using high-performance computing (HPC) to analyse plant and microbial genomes and support data-driven biological research.
