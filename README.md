@@ -13,12 +13,14 @@ Beyond research, I’m always excited to connect with scientists, developers, an
 ## Research Interests
 
 - Bioinformatics
-- Computational Biology
 - Biostatistics
 - Statistical Genomics
+- Computational Genomics
 - Epigenomics
 - Genome Assembly
 - Functional Annotation
+- Agricultural Genomics
+- Bioinformatics Workflow Development
 
 ## Technical Skills
 
@@ -28,21 +30,23 @@ Beyond research, I’m always excited to connect with scientists, developers, an
 - R
 - Linux
 
+### High-Performance Computing
+- SLURM
+- Singularity
+- Conda
+- Workflow Automation
+
 
 ### Bioinformatics 
 
+- Pan-epigenomics
+- Comparative Genomics
 - Genome Assembly
 - Hi-C Scaffolding
-- Functional Annotation
-- Comparative Genomics
+- Genome and Functional Annotation
 - Population Genomics
-
-## Current Focus
-
-- Statistical analyses for agricultural research
-- Genome assembly
-- Functional annotation
-- Bioinformatics workflow development
+- Transcriptomics
+- Multi-omics Integration
 
 
 ## What You'll Find Here
